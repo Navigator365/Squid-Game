@@ -279,6 +279,16 @@ body {
   animation: glitch-2 5s 5.02s infinite;
 }
 
+.link {
+  color: #864879;
+  position: absolute;
+  left: 50%;
+  bottom: 175px;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%)
+  animation: glitch-2 5s 5.02s infinite;
+}
+
 @keyframes glitch-2 {
   1% {
     transform: rotateX(10deg) skewX(70deg);
