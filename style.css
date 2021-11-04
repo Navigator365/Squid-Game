@@ -14,7 +14,7 @@ body {
 .glitch, .glow {
   color: #dfbfbf;
   position: relative;
-  font-size: 18vw;
+  font-size: 9vw;
   animation: glitch 5s 5s infinite;
 }
 
