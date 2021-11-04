@@ -14,7 +14,7 @@ body {
 .glitch, .glow {
   color: #dfbfbf;
   position: relative;
-  font-size: 9vw;
+  font-size: 18vw;
   animation: glitch 5s 5s infinite;
 }
 
@@ -269,8 +269,8 @@ body {
 .subtitle {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 100;
-  font-size: 0.8vw;
-  color: rgba(165, 141, 141, 0.4);
+  font-size: 2.0vw;
+  color: rgba(250, 61, 61, 1.0);
   text-transform: uppercase;
   letter-spacing: 1em;
   text-align: center;
